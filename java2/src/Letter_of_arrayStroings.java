@@ -3,7 +3,7 @@ import static java.util.Arrays.sort;
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 void main() {
-    int[] arr = {100,20,1,2,3,4,5,7,101};
+    int[] arr = {100,20,1,12,3,4,5,7,101};
     int largest = 0;
     int Slargest = 0;
 
