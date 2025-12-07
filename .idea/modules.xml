@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java1.iml" filepath="$PROJECT_DIR$/java1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java2/java2.iml" filepath="$PROJECT_DIR$/java2/java2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_tests.iml" filepath="$PROJECT_DIR$/Java_tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P1_Letter_of_arrayStroings/P1_Letter_of_arrayStroings.iml" filepath="$PROJECT_DIR$/P1_Letter_of_arrayStroings/P1_Letter_of_arrayStroings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2_2ndHighestNumber/P2_2ndHighestNumber.iml" filepath="$PROJECT_DIR$/P2_2ndHighestNumber/P2_2ndHighestNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P3_V2/P3_V2.iml" filepath="$PROJECT_DIR$/P3_V2/P3_V2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P3_repChar/P3_repChar.iml" filepath="$PROJECT_DIR$/P3_repChar/P3_repChar.iml" />
     </modules>
   </component>
 </project>
