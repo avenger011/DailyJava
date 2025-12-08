@@ -3,7 +3,7 @@ void main() {
 
     String arr="STRRERKKT";
     char[] arr2=arr.toCharArray();
-    char[]  res=New char[];
+
     String res2="";
     for (int i=0 ;i<arr2.length;i++)
 
