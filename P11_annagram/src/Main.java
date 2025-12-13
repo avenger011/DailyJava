@@ -25,5 +25,5 @@ void main() {
 
     if(Arrays.equals(ch1,ch2))
 
-    {{System.out.println("true its annagram");}}
+    {{System.out.println("true its annagramm");}}
 }
