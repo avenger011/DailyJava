@@ -3,10 +3,43 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java_tests.iml" filepath="$PROJECT_DIR$/Java_tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P24_Int Questions/P1/P1.iml" filepath="$PROJECT_DIR$/P24_Int Questions/P1/P1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P10_SubstringCount/P10_SubstringCount.iml" filepath="$PROJECT_DIR$/P10_SubstringCount/P10_SubstringCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P11_annagram/P11.iml" filepath="$PROJECT_DIR$/P11_annagram/P11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P12_HashSET_array_list/P12_HashSET_array_list.iml" filepath="$PROJECT_DIR$/P12_HashSET_array_list/P12_HashSET_array_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P13_Fcatorial of a number/P13.iml" filepath="$PROJECT_DIR$/P13_Fcatorial of a number/P13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P14_min-max/P14.iml" filepath="$PROJECT_DIR$/P14_min-max/P14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P15_sumOfTwoNumber/P15.iml" filepath="$PROJECT_DIR$/P15_sumOfTwoNumber/P15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P17_Digit_Number/P17.iml" filepath="$PROJECT_DIR$/P17_Digit_Number/P17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P18_HashMap_Scanner/P18.iml" filepath="$PROJECT_DIR$/P18_HashMap_Scanner/P18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P19_table/P19.iml" filepath="$PROJECT_DIR$/P19_table/P19.iml" />
       <module fileurl="file://$PROJECT_DIR$/P1_Letter_of_arrayStroings/P1_Letter_of_arrayStroings.iml" filepath="$PROJECT_DIR$/P1_Letter_of_arrayStroings/P1_Letter_of_arrayStroings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P20_skip2_time_occuringString/P20.iml" filepath="$PROJECT_DIR$/P20_skip2_time_occuringString/P20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P23/P23_count blank space.iml" filepath="$PROJECT_DIR$/P23/P23_count blank space.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P24_Int Questions/P24_Int Questions.iml" filepath="$PROJECT_DIR$/P24_Int Questions/P24_Int Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P25/P25.iml" filepath="$PROJECT_DIR$/P25/P25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P28_count the number in string/P28.iml" filepath="$PROJECT_DIR$/P28_count the number in string/P28.iml" />
       <module fileurl="file://$PROJECT_DIR$/P2_2ndHighestNumber/P2_2ndHighestNumber.iml" filepath="$PROJECT_DIR$/P2_2ndHighestNumber/P2_2ndHighestNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/P3_V2/P3_V2.iml" filepath="$PROJECT_DIR$/P3_V2/P3_V2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/P3_repChar/P3_repChar.iml" filepath="$PROJECT_DIR$/P3_repChar/P3_repChar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P3_firstName/P3_firstName.iml" filepath="$PROJECT_DIR$/P3_firstName/P3_firstName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P4_arrySort/P4_arrySort.iml" filepath="$PROJECT_DIR$/P4_arrySort/P4_arrySort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P24_Int Questions/P5/P5.iml" filepath="$PROJECT_DIR$/P24_Int Questions/P5/P5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P5_HashSet/P5_HashSet.iml" filepath="$PROJECT_DIR$/P5_HashSet/P5_HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P6_array of char/P6_array of char.iml" filepath="$PROJECT_DIR$/P6_array of char/P6_array of char.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P7_to find firest rep num/P7_to find firest rep num.iml" filepath="$PROJECT_DIR$/P7_to find firest rep num/P7_to find firest rep num.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P8_UpperToLower/P8_UpperToLower.iml" filepath="$PROJECT_DIR$/P8_UpperToLower/P8_UpperToLower.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P9_retain onlycaps/P9_retain onlycaps.iml" filepath="$PROJECT_DIR$/P9_retain onlycaps/P9_retain onlycaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p16_HashMap/p16.iml" filepath="$PROJECT_DIR$/p16_HashMap/p16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P24_Int Questions/p2/p2.iml" filepath="$PROJECT_DIR$/P24_Int Questions/p2/p2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p30 move 0s/p21_move 0s.iml" filepath="$PROJECT_DIR$/p30 move 0s/p21_move 0s.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p22_getorDefault/p22.iml" filepath="$PROJECT_DIR$/p22_getorDefault/p22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p26/p26.iml" filepath="$PROJECT_DIR$/p26/p26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p27/p27.iml" filepath="$PROJECT_DIR$/p27/p27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p29/p29.iml" filepath="$PROJECT_DIR$/p29/p29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P24_Int Questions/p3/p3.iml" filepath="$PROJECT_DIR$/P24_Int Questions/p3/p3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P24_Int Questions/p4/p4.iml" filepath="$PROJECT_DIR$/P24_Int Questions/p4/p4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P6_array of char/p6.2/p6.2.iml" filepath="$PROJECT_DIR$/P6_array of char/p6.2/p6.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p21 hashmaploop/untitled.iml" filepath="$PROJECT_DIR$/p21 hashmaploop/untitled.iml" />
     </modules>
   </component>
 </project>

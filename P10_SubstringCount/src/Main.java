@@ -5,6 +5,8 @@ void main() {
    int index=0;
    int count=0;
 
+
+
     while((index=str.indexOf("@#",index))!=-1){
         index=index+2;
         count++;

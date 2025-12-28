@@ -15,7 +15,6 @@ void main() {
                 count=count+1;
             }
 
-
         }
         if(count>0)
         {System.out.println(arr2[i]);}
