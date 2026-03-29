@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="untitled1" />
+        <module name="p38_trianglePattern" />
+        <module name="test" />
+        <module name="p40_enumerator" />
+        <module name="p38_stringFunctuons" />
+        <module name="p39" />
+        <module name="p390" />
+        <module name="contionuation_part" />
+        <module name="collectionFW" />
+        <module name="paranthesis_imp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="P38" target="25" />
+      <module name="p39" target="25" />
+      <module name="p390" target="25" />
+      <module name="p39_enumarator" target="25" />
+      <module name="p40_enumerator" target="25" />
+      <module name="test" target="25" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
